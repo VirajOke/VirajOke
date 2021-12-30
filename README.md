@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirajOke
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Masters in DTI conc in Applied Data Science at University of Ottawa
+- 🌱 I’m pursuing Masters in DTI conc in Applied Data Science at University of Ottawa
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me www.linkedin.com/in/viraj-oke-763209193
 
