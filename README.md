@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VirajOke
-- 👀 I’m interested in Data science
-- 🌱 I’m pursuing Masters in DTI conc in Applied Data Science at University of Ottawa
-- 💞️ I’m actively looking for summer intership/Co-op positions related to data science
+- 👋 Hi, I’m @VirajOke.
+- 👀 I’m interested in Data science and AI.
+- 🌱 I have a Master's degree in DTI- Applied Data Science from the University of Ottawa.
+- 💞️ I’m actively looking for fulltime Data Sciece and AI positions.
 - 📫 How to reach me www.linkedin.com/in/viraj-oke-763209193
 
 <!---
