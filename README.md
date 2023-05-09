@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and AI.
 - 🌱 I have a Master's degree in DTI- Applied Data Science from the University of Ottawa.
 - 💻 I currently work for the Governement Of Canada at SSC|SPC as an AI Programmer
-- 💞️ I’m actively looking for fulltime Data Sciece and AI positions.
+- 💞️ I’m actively looking for fulltime Data Sciece and AI opportunities.
 - 📫 How to reach me www.linkedin.com/in/viraj-oke-763209193
 
 <!---
