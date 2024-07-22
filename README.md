@@ -1,4 +1,4 @@
-### NOTE: MOST OF MY WORK IS STORED IN PRIVATE REPOS.
+### NOTE: MOST OF MY AI WORK IS STORED IN PRIVATE REPOS.
 - 👋 Hi, I’m @VirajOke.
 - 👀 I’m interested in Data science and AI.
 - 🌱 I have a Master's degree in DTI- Applied Data Science from the University of Ottawa.
